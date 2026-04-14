@@ -50,6 +50,10 @@ h1 ping h2
 * Controller logs (Allowing / Blocking)
 * Flow table outputs (ovs-ofctl dump-flows)
 
+## Screenshots
+![Ping](screenshots/ping.png)
+![Logs](screenshots/timer_controller.png)
+
 ## Conclusion
 
 This project demonstrates how SDN controllers can dynamically manage network behavior using flow rules and centralized control.
