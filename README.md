@@ -52,7 +52,7 @@ h1 ping h2
 
 ## Screenshots
 ![Ping](screenshots/ping.png)
-![Logs](screenshots/timer_controller.png)
+![Logs](screenshots/timeout_controller.png)
 
 ## Conclusion
 
